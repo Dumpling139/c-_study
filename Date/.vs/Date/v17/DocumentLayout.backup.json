@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\code\\cpp_study\\Date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C4973-81AF-47DC-AD69-473D12C23AA6}|Date\\Date.vcxproj|D:\\study\\code\\cpp_study\\Date\\Date\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B35C4973-81AF-47DC-AD69-473D12C23AA6}|Date\\Date.vcxproj|solutionrelative:Date\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "D:\\study\\code\\cpp_study\\Date\\Date\\Date.cpp",
+              "RelativeDocumentMoniker": "Date\\Date.cpp",
+              "ToolTip": "D:\\study\\code\\cpp_study\\Date\\Date\\Date.cpp",
+              "RelativeToolTip": "Date\\Date.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T07:42:02.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
